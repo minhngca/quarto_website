@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+Hi there, this is something about me.
+
+Something *interesting* is happening...
+
+About this site
+
+[Home] (index.qmd)
